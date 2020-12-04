@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Marisa B.</h1>
-<h3 align="center">Studying front-end dev & design. 👩‍💻</h3>
-
-<p align="left"> <a href="https://twitter.com/marisabrantley" target="blank"><img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a> </p>
+![GitHub Readme Profile Banner](https://user-images.githubusercontent.com/60168324/101110387-bc417780-358d-11eb-9a55-c0ca73828bc3.png)
+<h2 align="center">Studying front-end dev & design.</h2>
 
 - 🌱 I’m currently learning **JavaScript, jQuery.**
 
