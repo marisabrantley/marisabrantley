@@ -15,8 +15,3 @@
 <a href="https://fb.com/marisa.marlowbrantley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marisa.marlowbrantley" height="30" width="40" /></a>
 <a href="https://instagram.com/marisab_oc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=marisabrantley&color=ffb6c1)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&locale=en" alt="marisabrantley" /></p>
-
