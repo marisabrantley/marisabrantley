@@ -2,11 +2,11 @@
 <h2 align="center">Studying front-end development & design. 🦄</h2>
 
 
-- 🌱 I’m currently learning **JavaScript, jQuery.**
+- 🌱 I’m currently learning **JavaScript, jQuery**.
 
-- 📫 How to reach me **marisakbrantley@gmail.com**
+- 📫 How to reach me **marisakbrantley@gmail.com**.
 
-- ⚡ Fun fact: **I own a 1963 VW Ragtop Beetle (CA-original). 🤙🏻**
+- ⚡ Fun fact: **I own a 1963 VW Ragtop Beetle (CA-original)**. 🤙🏻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
