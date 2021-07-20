@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**.
 
-- 📫 How to reach me **marisakbrantley@gmail.com**.
-
-- ⚡ Fun fact: **I own a 1963 VW Ragtop Beetle (CA-original)**. 🤙🏻
+- 📧 How to reach me **marisakbrantley@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,10 +16,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/></a> 
+<img src="https://image.flaticon.com/icons/png/512/3094/3094455.png" alt="html5" width="50" height="50"/></a> 
+<img src="https://image.flaticon.com/icons/png/512/3094/3094320.png" alt="css3" width="50" height="50"/></a>
+<img src="https://image.flaticon.com/icons/png/512/2721/2721272.png" alt="javascript" width="50" height="50"/></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="50" height="50"/></a> 
 </p>
 
 ![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=vue)
