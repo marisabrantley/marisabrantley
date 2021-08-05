@@ -2,8 +2,7 @@
 <h2 align="center">Studying front-end web development & design. 🦄</h2>
 
 - 🌱 I’m currently learning **JavaScript**.
-- 📧 How to reach me: **marisakbrantley@gmail.com**, or on Twitter: <a href="https://twitter.com/MarisaBrantley" target="blank">@marisabrantley</a>
-
+- 📧 How to reach me: **marisakbrantley@gmail.com**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/marisab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marisab" height="30" width="40" /></a>
