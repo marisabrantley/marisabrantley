@@ -17,7 +17,6 @@
 <img src="https://image.flaticon.com/icons/png/512/1/1840.png" alt="html5" width="60" height="60"/></a> 
 <img src="https://image.flaticon.com/icons/png/512/2/2148.png" alt="css3" width="60" height="60"/></a>
 <img src="https://iconape.com/wp-content/png_logo_vector/javascript.png" alt="javascript" width="60" height="60"/></a> 
-<img src="https://image.flaticon.com/icons/png/512/1/1781.png" alt="photoshop" width="60" height="60"/></a> 
 </p>
 
 ![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=vue)
