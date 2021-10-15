@@ -1,7 +1,7 @@
 ![GitHub Readme Profile Banner](https://user-images.githubusercontent.com/60168324/101110387-bc417780-358d-11eb-9a55-c0ca73828bc3.png)
 <h2 align="center">Studying front-end web development & design.  🦄</h2>
 
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I’m currently learning **JavaScript & SASS **.
 - 📧 How to reach me: **marisakbrantley@gmail.com**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
