@@ -1,24 +1,46 @@
-![GitHub Readme Profile Banner](https://user-images.githubusercontent.com/60168324/101110387-bc417780-358d-11eb-9a55-c0ca73828bc3.png)
-<h2 align="center">Studying front-end web development & design.  🦄</h2>
+![GitHub Readme Profile Banner copy](https://user-images.githubusercontent.com/60168324/137659662-30dd7b29-f742-4b24-87fe-12fb99a9d72c.gif)
+<br>
+<br>
 
-- 🌱 I’m currently learning **JavaScript & SASS**.
-- 📧 How to reach me: **marisakbrantley@gmail.com**.
- 
-<h2 align="center">Connect with me:</h2>
-
-<p align="center">
-<a href="https://codepen.io/marisab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marisab" height="30" width="40" /></a>
-<a href="https://twitter.com/marisabrantley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marisabrantley" height="30" width="40" /></a>
-<a href="https://fb.com/marisa.marlowbrantley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="marisa.marlowbrantley" height="30" width="40" /></a>
-<a href="https://instagram.com/marisab_oc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
+<h2 align=left>Hi! I'm Marisa Brantley.</h2>
+<h3>Former paralegal currently studying front-end development and design.</h3>
+<br>
+<p align="left"> I'm currently enrolled in <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="blank">Codecademy Pro's Front-end Engineer Career Path</a>, as well as <a href="https://skillcrush.com/break-into-tech-blueprint" target="blank">Skillcrush's Break Into Tech Blueprint</a>.
 </p>
-
-<h2 align="center">Languages and Tools:</h2>
-
-<p align="center"> 
-<img src="https://image.flaticon.com/icons/png/512/1/1840.png" alt="html5" width="60" height="60"/></a> 
-<img src="https://image.flaticon.com/icons/png/512/2/2148.png" alt="css3" width="60" height="60"/></a>
-<img src="https://iconape.com/wp-content/png_logo_vector/javascript.png" alt="javascript" width="60" height="60"/></a> 
+<br>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://codepen.io/marisab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marisab" height="30" width="40" /></a>
+<a href="https://dev.to/marisabrantley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marisabrantley" height="30" width="40" /></a>
+<a href="https://twitter.com/marisabrantley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marisabrantley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marisabrantley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16354014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16354014" height="30" width="40" /></a>
+<a href="https://instagram.com/marisab_oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
 </p>
+<p align="left">
+<a href="https://twitter.com/marisabrantley" target="blank"><img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
+</p>
+<br>
+<h2 align="left">Languages and Tools:</h2>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1Eg" alt="javascript" </a>
+<a href="https://api.jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" </a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio code" /> </a>
+<a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
+</p>
+<br>
+<h2 align="left">Hobbies:</h2>
+<p align="left">
+<a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"> <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tesla-A9A9A9.svg?style=for-the-badge&logo=Tesla&logoColor=white" alt="goodreads" /> </a>
+</p>
+<br>
+<br>
 
-![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=vue)
+![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite)
