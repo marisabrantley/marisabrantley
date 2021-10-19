@@ -3,9 +3,9 @@
 <br>
 
 <h2 align=left>Hi! I'm Marisa Brantley.</h2>
-<h3>Former paralegal studying front-end development and design.</h3>
+<h3>Former automotive paralegal studying front-end development and design.</h3>
 <br>
-<p align="left"> I'm currently enrolled in <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="blank">Codecademy Pro's Front-end Engineer Career Path</a>, as well as <a href="https://skillcrush.com/break-into-tech-blueprint" target="blank">Skillcrush's Break Into Tech Blueprint</a>. Right now, I'm learning SASS, and still in the trenches with JavaScript.
+<p align="left"> I'm currently enrolled in <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="blank">Codecademy Pro's Front-end Engineer Career Path</a>, as well as <a href="https://skillcrush.com/break-into-tech-blueprint" target="blank">Skillcrush's Break Into Tech Blueprint</a>. Right now, I'm learning SASS, and still in the trenches with JavaScript. :smile:
 </p>
 <br>
 <h2 align="left">Connect with me:</h2>
