@@ -38,7 +38,6 @@ Right now, I'm learning SASS, and still in the trenches with JavaScript. :smile:
 <h2 align="left">Hobbies:</h2>
 <p align="left">
 <a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"> <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Tesla-A9A9A9.svg?style=for-the-badge&logo=Tesla&logoColor=white" alt="goodreads" /> </a>
 </p>
 <br>
 <br>
