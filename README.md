@@ -11,15 +11,16 @@ Right now, I'm learning SASS, and still in the trenches with JavaScript. :smile:
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="mailto: marisakbrantley@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
+</a>
+<a href="https://instagram.com/marisab_oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marisabrantley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
 <a href="https://codepen.io/marisab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marisab" height="30" width="40" /></a>
 <a href="https://dev.to/marisabrantley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="marisabrantley" height="30" width="40" /></a>
-<a href="https://twitter.com/marisabrantley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marisabrantley" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marisabrantley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marisabrantley" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16354014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16354014" height="30" width="40" /></a>
-<a href="https://instagram.com/marisab_oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marisab_oc" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/marisabrantley" target="blank"><img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
+<a href="https://twitter.com/marisabrantley" target="blank"> <img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
@@ -37,7 +38,7 @@ Right now, I'm learning SASS, and still in the trenches with JavaScript. :smile:
 <br>
 <h2 align="left">Hobbies:</h2>
 <p align="left">
-<a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"> <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /> </a>
+<a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /></a>
 </p>
 <br>
 <br>
