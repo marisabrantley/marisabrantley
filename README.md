@@ -23,6 +23,11 @@ Right now, I'm learning React. :smile:
 <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
 </p>
 <br>
+<h2 align="left">Recent Blog Post:</h2>
+<p align="left">
+-  <a href="https://marisabrantley.hashnode.dev/10-things-i-wish-id-known-when-starting-my-coding-journey" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey 🤔</a>
+<br>
+<br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
