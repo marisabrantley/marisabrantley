@@ -25,7 +25,7 @@ Right now, I'm learning React. :smile:
 <br>
 <h2 align="left">Recent Blog Post:</h2>
 <p align="left">
--  <a href="https://marisabrantley.hashnode.dev/10-things-i-wish-id-known-when-starting-my-coding-journey" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey 🤔 </a>
+-  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey 🤔 </a>
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
