@@ -25,7 +25,7 @@ Right now, I'm learning React. :smile:
 <br>
 <h2 align="left">Recent Blog Post:</h2>
 <p align="left">
-:point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published!)
+:point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
