@@ -3,11 +3,11 @@
 <br>
 
 <h2 align=center>Hi! I'm Marisa Brantley.</h2>
-<h3 align=center>Former automotive paralegal studying front-end development and design.</h3>
+<h3 align=center>Frontend Developer and UI Designer</h3>
 <br>
-<p align="center"> I'm currently enrolled in <a href="https://skillcrush.com/break-into-tech-blueprint" target="blank">Skillcrush's Break Into Tech Blueprint</a> and <a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="blank">Codecademy Pro's Front-end Engineer Career Path</a>. <br /> 
-Right now, I'm learning React.
-</p>
+<p align="center">I enjoy creating wesbites that will convey the most satisfying, effective and visually appealing experience for all users. With backgrounds in law and ecommerce, I appreciate details, meeting deadlines, clear communication, and making businesses' visions come to life.</p>
+<br>
+<p align="center">Let's open source together! DM me on <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
