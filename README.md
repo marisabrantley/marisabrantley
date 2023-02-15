@@ -42,10 +42,11 @@
 <a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
 </p>
 <br>
-<h2 align="left">Hobbies:</h2>
-<p align="left">
-<a href="https://www.goodreads.com/user/show/4287311-marisa" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads" /></a>
-</p>
+<h2 align="center" dir="auto">Featured Projects</h2>
+<div align="center">
+<table>
+<tbody>
+<td width="50%">
 <br>
 <br>
 
