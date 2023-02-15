@@ -5,10 +5,9 @@
 <h2 align=center>Hi! I'm Marisa Brantley.</h2>
 <h3 align=center>Frontend Developer and UI Designer</h3>
 <br>
-<p align="center">I enjoy creating wesbites that will convey the most satisfying, effective and visually appealing experience for all users. With backgrounds in law and ecommerce, I appreciate details, meeting deadlines, clear communication, and making businesses' visions come to life.</p>
+<p align="center">I enjoy creating websites that convey the most satisfying, effective and visually appealing experience for all users. With backgrounds in law and ecommerce, I appreciate details, meeting deadlines, clear communication, and making businesses' visions come to life.</p>
 <br>
 <p align="center">Let's open source together! DM me on <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
-<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="mailto: marisakbrantley@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
