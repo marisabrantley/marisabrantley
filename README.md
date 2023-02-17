@@ -54,7 +54,7 @@
 <td width="50%">
 <h3 align="center" color="white">Super Sticky Notes App</h3>
 <div align="center">
-https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-9a63-1ec7ec5509bb.png
+https://user-images.githubusercontent.com/60168324/219540977-0c82932a-e6fe-426f-9e95-6c96c3dac563.mov
 <br>
 <br>
 <p>
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-
                                                                                        
 <h3 align="center" color="white">Guess The Word Game</h3>
 <div align="center">
-![Guess the Word Game All](https://user-images.githubusercontent.com/60168324/219536881-0db8d787-7415-4fde-bd43-b7f0ec84fc96.png)
+https://user-images.githubusercontent.com/60168324/219541068-791da2ed-9e2e-49c2-accb-ea3f8d37faf5.mov
 <br>
 <br>
 <p>
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-
 <td width="50%">
 <h3 align="center" color="white">GitHub Repo Gallery App</h3>
 <div align="center">                                       
-![GitHub Repo Gallery App](https://user-images.githubusercontent.com/60168324/219537992-a470fe2d-c829-4451-bf1d-273eb0f7d83d.png)
+https://user-images.githubusercontent.com/60168324/219541291-e1f25e9b-fb9f-43c5-95a5-2b74f3ab35a1.mov
 <br>
 <br>
 <p>
@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-
 
 <h3 align="center" color="white">LOLcat Clock App</h3>
 <div align="center">
-![LOLcat Clock App](https://user-images.githubusercontent.com/60168324/219538096-5863e66c-38d5-4965-8db4-16b7a62133fc.png)
+https://user-images.githubusercontent.com/60168324/219541372-eee74c05-0bc6-4e8f-bce8-00dd78ceb8d9.mov
 <br>
 <br>
 <p>
