@@ -48,15 +48,14 @@
 <br>
  
 <h2 align="center">Featured Projects</h2>
+<br>
 <div align="center">
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Super Sticky Notes App</h3>
+<h3 align="center">Super Sticky Notes App</h3>
 <div align="center">
-https://user-images.githubusercontent.com/60168324/219540977-0c82932a-e6fe-426f-9e95-6c96c3dac563.mov
-<br>
-<br>
+<a href=""https://marisabrantley.github.io/sticky-notes-app/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="Super Sticky Notes App"></a>
 <p>
 <a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -68,9 +67,9 @@ https://user-images.githubusercontent.com/60168324/219540977-0c82932a-e6fe-426f-
 <p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
 </div>
                                                                                        
-<h3 align="center" color="white">Guess The Word Game</h3>
+<h3 align="center">Guess The Word Game App</h3>
 <div align="center">
-https://user-images.githubusercontent.com/60168324/219541068-791da2ed-9e2e-49c2-accb-ea3f8d37faf5.mov
+<a href="https://marisabrantley.github.io/guess-the-word/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219545494-296607fb-82c4-467e-bb76-09d33c9cd63c.png" width="400" alt="Guess the Word App"></a>
 <br>
 <br>
 <p>
@@ -86,9 +85,9 @@ https://user-images.githubusercontent.com/60168324/219541068-791da2ed-9e2e-49c2-
 </td>
 
 <td width="50%">
-<h3 align="center" color="white">GitHub Repo Gallery App</h3>
+<h3 align="center">GitHub Repo Gallery App</h3>
 <div align="center">                                       
-https://user-images.githubusercontent.com/60168324/219541291-e1f25e9b-fb9f-43c5-95a5-2b74f3ab35a1.mov
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219548465-185483ec-830e-4b12-bf8e-0b67bff15885.jpeg" width="400" alt="GitHub Repo Gallery App"></a>
 <br>
 <br>
 <p>
@@ -102,9 +101,12 @@ https://user-images.githubusercontent.com/60168324/219541291-e1f25e9b-fb9f-43c5-
 </p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
 </div>
 
-<h3 align="center" color="white">LOLcat Clock App</h3>
+<h3 align="center">LOLcat Clock App</h3>
 <div align="center">
-https://user-images.githubusercontent.com/60168324/219541372-eee74c05-0bc6-4e8f-bce8-00dd78ceb8d9.mov
+<a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219547479-61dd8aba-859e-48c1-aa69-b2c6256195f9.jpeg" width="400" alt="LOLcat Clock App"></a>
+
+
+
 <br>
 <br>
 <p>
@@ -115,9 +117,12 @@ https://user-images.githubusercontent.com/60168324/219541372-eee74c05-0bc6-4e8f-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
 </p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with current time and images that change with time of day. It also has three timers and corresponding images for each.</p>
-</div>
-                                                                            
+</div>                                                                  
 </table>                                                                                 
 </div>
-                                                                                       
-![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite)
+<br>
+<hr>                                                                                      
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite">
+</p>
