@@ -7,7 +7,9 @@
 <br>
 <p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br>With backgrounds in law and ecommerce, I appreciate details, meeting deadlines,<br>clear communication, and making businesses' visions come to life.</p>
 <br>
-<p align="center">Let's open source together! DM me on <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
+<p align="center">Let's open-source together! DM me on <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="mailto: marisakbrantley@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/dotty/40/000000/email.png" alt="marisabrantley email" />
@@ -22,11 +24,13 @@
 <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/marisabrantley?logo=twitter&style=for-the-badge" alt="marisabrantley" /></a>
 </p>
 <br>
+
 <h2 align="left">Recent Blog Post:</h2>
 <p align="left">
 :point_right:  <a href="https://dev.to/marisabrantley/10-things-i-wish-id-known-when-starting-my-coding-journey-3ga1" rel="noopener noreferrer" target="_blank">10 Things I Wish I'd Known When Starting My Coding Journey</a><br>(The <a href="https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-59ba">most popular DEV post</a> the week it was published)
 </p>
 <br>
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
@@ -42,16 +46,15 @@
 <a href=# target="_blank"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> </a>
 </p>
 <br>
-<h2 align="center" dir="auto">Featured Projects</h2>
+ 
+<h2 align="center">Featured Projects</h2>
 <div align="center">
 <table>
-<tbody>
+<tr>
 <td width="50%">
 <h3 align="center" color="white">Super Sticky Notes App</h3>
 <div align="center">
-<a href="https://marisabrantley.github.io/sticky-notes-app/">
-https://user-images.githubusercontent.com/60168324/219520897-61610ab1-91c6-40df-af26-f5466c179ba7.mov
-</a>
+![Super Sticky Notes App](https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-9a63-1ec7ec5509bb.png)
 <br>
 <br>
 <p>
@@ -61,13 +64,13 @@ https://user-images.githubusercontent.com/60168324/219520897-61610ab1-91c6-40df-
 <a href="https://marisabrantley.github.io/sticky-notes-app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
 </a>
-</p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save and delete them.</p>
-
+</p>
+<p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+</div>
+                                                                                       
 <h3 align="center" color="white">Guess The Word Game</h3>
 <div align="center">
-<a href="https://marisabrantley.github.io/sticky-notes-app/">
-https://user-images.githubusercontent.com/60168324/219521354-f41c4ba3-3ff1-462c-a01c-c7b471d273cd.mov
-</a>
+![Guess the Word Game All](https://user-images.githubusercontent.com/60168324/219536881-0db8d787-7415-4fde-bd43-b7f0ec84fc96.png)
 <br>
 <br>
 <p>
@@ -77,19 +80,15 @@ https://user-images.githubusercontent.com/60168324/219521354-f41c4ba3-3ff1-462c-
 <a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ffe2d6">
 </a>
-</p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
+</p>
+<p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
 </div>
 </td>
 
-<div align="center">
-<table>
-<tbody>
 <td width="50%">
-<h3 align="center" color="white">GitHub Repo Gallery</h3>
-<div align="center">
-<a href="https://marisabrantley.github.io/github-repo-gallery/">                                          
-https://user-images.githubusercontent.com/60168324/219521147-474461fc-2728-4f20-85ad-dd6ad9695aab.mov                  
-</a>
+<h3 align="center" color="white">GitHub Repo Gallery App</h3>
+<div align="center">                                       
+![GitHub Repo Gallery App](https://user-images.githubusercontent.com/60168324/219537992-a470fe2d-c829-4451-bf1d-273eb0f7d83d.png)
 <br>
 <br>
 <p>
@@ -99,12 +98,13 @@ https://user-images.githubusercontent.com/60168324/219521147-474461fc-2728-4f20-
 <a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
+</p>
 </p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information, which can be clicked on or searched using dynamic search functionality.</p>
+</div>
 
 <h3 align="center" color="white">LOLcat Clock App</h3>
 <div align="center">
-<a href="https://marisabrantley.github.io/lolcat-clock/"></a>
-https://user-images.githubusercontent.com/60168324/219521676-105189df-2e8c-46e1-a573-0408aa5a8cd7.mov
+![LOLcat Clock App](https://user-images.githubusercontent.com/60168324/219538096-5863e66c-38d5-4965-8db4-16b7a62133fc.png)
 <br>
 <br>
 <p>
@@ -115,7 +115,8 @@ https://user-images.githubusercontent.com/60168324/219521676-105189df-2e8c-46e1-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
 </p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with the current time and an image that changes depending on the time of day. It also has three timers and corresponding images for each. A bonus is the Party Time button.</p>
+                                                                            
+</table>                                                                                 
 </div>
-</table>
-
+                                                                                       
 ![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite)
