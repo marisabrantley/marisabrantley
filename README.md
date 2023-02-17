@@ -99,7 +99,7 @@ https://user-images.githubusercontent.com/60168324/219541291-e1f25e9b-fb9f-43c5-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
 </p>
-</p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+</p><strong>JavaScript, HTML, CSS</strong> - App pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
 </div>
 
 <h3 align="center" color="white">LOLcat Clock App</h3>
