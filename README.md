@@ -54,7 +54,7 @@
 <td width="50%">
 <h3 align="center" color="white">Super Sticky Notes App</h3>
 <div align="center">
-![Super Sticky Notes App](https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-9a63-1ec7ec5509bb.png)
+https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-9a63-1ec7ec5509bb.png
 <br>
 <br>
 <p>
@@ -75,10 +75,10 @@
 <br>
 <p>
 <a href="https://github.com/marisabrantley/guess-the-word" target="_blank">
-<img src="https://img.shields.io/badge/CODE-dff6f6?style=for-the-badge&logo=github&logoColor=black"">
+<img src="https://img.shields.io/badge/CODE-28bdbd?style=for-the-badge&logo=github&logoColor=black"">
 </a>
 <a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ffe2d6">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ff8d5c">
 </a>
 </p>
 <p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
@@ -99,7 +99,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
 </a>
 </p>
-</p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information, which can be clicked on or searched using dynamic search functionality.</p>
+</p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
 </div>
 
 <h3 align="center" color="white">LOLcat Clock App</h3>
@@ -114,7 +114,7 @@
 <a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
-</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with the current time and an image that changes depending on the time of day. It also has three timers and corresponding images for each. A bonus is the Party Time button.</p>
+</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with the current time and an image that changes depending on the time of day. It also has three timers and corresponding images for each.</p>
                                                                             
 </table>                                                                                 
 </div>
