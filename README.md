@@ -66,6 +66,7 @@ https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-
 </a>
 </p>
 <p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+<br>
 </div>
                                                                                        
 <h3 align="center" color="white">Guess The Word Game</h3>
@@ -100,6 +101,7 @@ https://user-images.githubusercontent.com/60168324/219536314-41c7f7e0-e1ad-4890-
 </a>
 </p>
 </p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information.</p>
+<br>
 </div>
 
 <h3 align="center" color="white">LOLcat Clock App</h3>
