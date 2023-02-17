@@ -47,7 +47,75 @@
 <table>
 <tbody>
 <td width="50%">
+<h3 align="center" color="white">Super Sticky Notes App</h3>
+<div align="center">
+<a href="https://marisabrantley.github.io/sticky-notes-app/">
+https://user-images.githubusercontent.com/60168324/219520897-61610ab1-91c6-40df-af26-f5466c179ba7.mov
+</a>
 <br>
 <br>
+<p>
+<a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/sticky-notes-app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save and delete them.</p>
+
+<h3 align="center" color="white">Guess The Word Game</h3>
+<div align="center">
+<a href="https://marisabrantley.github.io/sticky-notes-app/">
+https://user-images.githubusercontent.com/60168324/219521354-f41c4ba3-3ff1-462c-a01c-c7b471d273cd.mov
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/marisabrantley/guess-the-word" target="_blank">
+<img src="https://img.shields.io/badge/CODE-dff6f6?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://marisabrantley.github.io/guess-the-word/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=ffe2d6">
+</a>
+</p><strong>JavaScript, HTML, CSS</strong> - This fun game has players enter letters while trying to guess the word with their 8 tries. The words are fetched from an API.</p>
+</div>
+</td>
+
+<div align="center">
+<table>
+<tbody>
+<td width="50%">
+<h3 align="center" color="white">GitHub Repo Gallery</h3>
+<div align="center">
+<a href="https://marisabrantley.github.io/github-repo-gallery/">                                          
+https://user-images.githubusercontent.com/60168324/219521147-474461fc-2728-4f20-85ad-dd6ad9695aab.mov                  
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/marisabrantley/github-repo-gallery" target="_blank">
+<img src="https://img.shields.io/badge/CODE-4eb6d0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/github-repo-gallery/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=2d358f">
+</a>
+</p><strong>JavaScript, HTML, CSS</strong> - The GitHub Repo Gallery project pulls data from GitHub API calls to populate username, bio, location, number of public repos, and individual repo information, which can be clicked on or searched using dynamic search functionality.</p>
+
+<h3 align="center" color="white">LOLcat Clock App</h3>
+<div align="center">
+<a href="https://marisabrantley.github.io/lolcat-clock/"></a>
+https://user-images.githubusercontent.com/60168324/219521676-105189df-2e8c-46e1-a573-0408aa5a8cd7.mov
+<br>
+<br>
+<p>
+<a href="https://github.com/marisabrantley/lolcat-clock" target="_blank">
+<img src="https://img.shields.io/badge/CODE-f16059?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://marisabrantley.github.io/lolcat-clock/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
+</a>
+</p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with the current time and an image that changes depending on the time of day. It also has three timers and corresponding images for each. A bonus is the Party Time button.</p>
+</div>
+</table>
 
 ![Marisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisabrantley&show_icons=true&theme=graywhite)
