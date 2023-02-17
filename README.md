@@ -115,6 +115,7 @@ https://user-images.githubusercontent.com/60168324/219541372-eee74c05-0bc6-4e8f-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=black"">
 </a>
 </p><strong>JavaScript, HTML, CSS</strong> - This app features a clock with the current time and an image that changes depending on the time of day. It also has three timers and corresponding images for each.</p>
+</div>
                                                                             
 </table>                                                                                 
 </div>
