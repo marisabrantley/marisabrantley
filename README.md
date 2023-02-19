@@ -7,7 +7,7 @@
 <br>
 <p align="center">I enjoy creating accessible websites that convey the most satisfying, effective and visually appealing experience for all users.<br>With backgrounds in law and ecommerce, I appreciate details, meeting deadlines,<br>clear communication, and making businesses' visions come to life.</p>
 <br>
-<p align="center">Let's open-source together! DM me on <a href="https://twitter.com/marisabrantley" rel="noopener noreferrer" target="_blank">Twitter</a>.</p>
+<p align="center">Let's open-source together! Send me a link!</p>
 
 
 <h2 align="left">Connect with me:</h2>
